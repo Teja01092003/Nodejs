@@ -1,0 +1,11 @@
+{
+  "name": "azure-demo-app",
+  "version": "1.0.0",
+  "description": "Modern Azure App Service demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Kasa Ravi Teja",
+  "license": "MIT"
+}
