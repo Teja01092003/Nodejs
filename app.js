@@ -107,7 +107,7 @@ const html = `
     </nav>
 
     <section class="hero">
-        <h1>Welcome to Azure App Service!</h1>
+        <h1>Welcome to Azure App Service! V1</h1>
         <p>This is a simple Node.js application deployed on Azure.</p>
         <a href="#" class="btn">Get Started</a>
     </section>
